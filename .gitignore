@@ -1,0 +1,23 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/react-ui-search/node_modules
+/react-ui-search/.pnp
+/react-ui-search.pnp.js
+
+# testing
+/react-ui-search/coverage
+
+# production
+/react-ui-search/build
+
+# misc
+/react-ui-search/.DS_Store
+/react-ui-search/.env.local
+/react-ui-search/.env.development.local
+/react-ui-search/.env.test.local
+/react-ui-search/.env.production.local
+
+/react-ui-search/npm-debug.log*
+/react-ui-search/yarn-debug.log*
+/react-ui-search/yarn-error.log*
